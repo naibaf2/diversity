@@ -1,0 +1,12 @@
+1. Requirements: Python 3.9.5, and following packages: 
+	- itertools, 
+	- matplotlib 3.4.3, 
+	- numpy 1.20.3,
+	- networkx 2.6.3
+ Can be installed using pip install <package_name>
+ Typical install time should not exceed 15 minutes.
+2. Running simulations (on Linux)
+	python3 run.py
+ Typical run time for single realization for default parameters takes a few seconds.
+3. To test other parameters set change values in params.py file
+
